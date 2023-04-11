@@ -1,6 +1,6 @@
 # smb-servis-tool
 smb-service-tool / smb-servis-hizmeti , yeni başlayanlar için
-YT ahmet birkandan gördüğüm fakat link eskidiği için kullanamadığım bir aracı kodladım , yeni başlayanlar için gayet güzel bir araç 
+YT ahmet birkandan gördüğüm fakat link eskidiği için kullanamadım , bazı eksikleri olsada 1e1 aynı .Yeni başlayanlar için gayet güzel bir tool.
 
 
 
