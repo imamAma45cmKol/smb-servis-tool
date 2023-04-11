@@ -1,5 +1,5 @@
 # smb-servis-tool
-smb-service-tool / smb-servis-hizmeti ,YT ahmet birkandan gördüm fakat link eskidiği için kullanamadım , bazı eksikleri olsada 1e1 aynı .Yeni başlayanlar için gayet güzel bir tool.
+smb-service-tool / smb-servis-hizmeti ,YT ahmet birkandan gördüm fakat link eskidiği için kullanamadım , bazı eksikleri olsada neredeyse  aynı .Yeni başlayanlar için gayet güzel bir tool.
 
 
 
