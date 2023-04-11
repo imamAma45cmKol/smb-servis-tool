@@ -4,10 +4,9 @@ YT ahmet birkandan gördüğüm fakat link eskidiği için kullanamadığım bir
 
 
 
-İndirmek İçin 
-git clone https://github.com/imamAma45cmKol/smb-servis-tool.git 
+İndirmek İçin
 
-cd smb-servis-tool
-
-python3 SMB-Service_TooL.py           
+git clone https://github.com/imamAma45cmKol/smb-servis-tool.git                                          
+cd smb-servis-tool                                                          
+python3 SMB-Service_TooL.py                                           
                      
